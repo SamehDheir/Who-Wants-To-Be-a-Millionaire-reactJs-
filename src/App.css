@@ -1,38 +1,141 @@
-.App {
-  text-align: center;
+.App{
+  display: flex;
+  background-color: #020230;
+  color: white;
+
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.main{
+  width: 75%;
+  height: 100vh;
+  background: linear-gradient(to bottom, rgba(0,0,0,0), #020230), url('assests/images/bg.jpg') center;
+  display: flex;
+  flex-direction: column;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.top{
+  height: 50%;
+  position: relative;
+ 
+}
+.timer{
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border: 3px solid white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  bottom: 10px;
+  left: 80px;
+}
+.bottom{
+  height: 50%;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.pyramid{
+  width: 25%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.moneyList{
+  list-style: none;
+  width: 100%;
+  padding: 20px;
+}
+
+.moneyListItem{
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  
+}
+
+.moneyListItem.active {
+  background-color: teal;
+}
+
+.moneyListItemNumber {
+  font-size: 18px;
+  font-weight: 100;
+  width: 30%;
+}
+
+.moneyListItemAmount {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.endText { 
+  margin: auto;
+}
+
+.start {
+  width: 250px;
+  height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  position: relative;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  margin: auto;
 }
 
-.App-link {
-  color: #61dafb;
+.welcome {
+  width: 120vh;
+  text-align: center;
+  margin-bottom: 2rem;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.startInput {
+  width: 100%;
+  height: 30px;
+  border: none;
+  margin-bottom: 1.5rem;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  text-align: center;
+  font-size: 18px;
+
+}
+
+.startInput:focus {
+  outline: none;
+}
+
+
+.startButton {
+  width: 100%;
+  height: 30px;
+  border: none;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  cursor: pointer;
+  font-size: 18px;
+  font-weight: 500;
 }

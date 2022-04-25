@@ -1,0 +1,346 @@
+ [
+  {
+    "id": 1,
+    "question": "Rolex is a company that specializes in what type of product?",
+    "answers": [
+      {
+        "text": "Phone",
+        "correct": false
+      },
+      {
+        "text": "Watches",
+        "correct": true
+      },
+      {
+        "text": "Food",
+        "correct": false
+      },
+      {
+        "text": "Cosmetic",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "When did the website `Facebook` launch?",
+    "answers": [
+      {
+        "text": "2004",
+        "correct": true
+      },
+      {
+        "text": "2005",
+        "correct": false
+      },
+      {
+        "text": "2006",
+        "correct": false
+      },
+      {
+        "text": "2007",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Who played the character of harry potter in movie?",
+    "answers": [
+      {
+        "text": "Johnny Deep",
+        "correct": false
+      },
+      {
+        "text": "Leonardo Di Caprio",
+        "correct": false
+      },
+      {
+        "text": "Denzel Washington",
+        "correct": false
+      },
+      {
+        "text": "Daniel Red Cliff",
+        "correct": true
+      }
+    ]
+  },
+
+  {
+    "id": 4,
+    "question": "In the UK, the abbreviation NHS stands for National what Service?",
+    "answers": [
+      {
+        "text": "Health",
+        "correct": true
+      },
+      {
+        "text": "Honour",
+        "correct": false
+      },
+      {
+        "text": "Humanity",
+        "correct": false
+      },
+      {
+        "text": "Household",
+        "correct": false
+      }
+    ]
+  },
+
+  {
+    "id": 5,
+    "question": "Which Disney character famously leaves a glass slipper behind at a royal ball? ",
+    "answers": [
+      {
+        "text": "Pocahontas",
+        "correct": false
+      },
+      {
+        "text": "Sleeping Beaut",
+        "correct": false
+      },
+      {
+        "text": "Cinderella",
+        "correct": true
+      },
+      {
+        "text": "Elsa",
+        "correct": false
+      }
+    ]
+  },
+
+  {
+    "id": 6,
+    "question": " What name is given to the revolving belt machinery in an airport that delivers checked luggage from the plane to baggage reclaim? ",
+    "answers": [
+      {
+        "text": "Hangar",
+        "correct": false
+      },
+      {
+        "text": "Terminal",
+        "correct": false
+      },
+      {
+        "text": "Carousel",
+        "correct": true
+      },
+      {
+        "text": "Concourse",
+        "correct": false
+      }
+    ]
+  },
+
+  {
+    "id": 7,
+    "question": "Which of these brands was chiefly associated with the manufacture of household locks? ",
+    "answers": [
+      {
+        "text": "Phillips",
+        "correct": false
+      },
+      {
+        "text": "Flymo",
+        "correct": false
+      },
+      {
+        "text": "Chubb",
+        "correct": true
+      },
+      {
+        "text": "Ronseal",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": " The hammer and sickle is one of the most recognisable symbols of which political ideology",
+    "answers": [
+      {
+        "text": "Republicanism",
+        "correct": false
+      },
+      {
+        "text": "Communism",
+        "correct": true
+      },
+      {
+        "text": "Conservatism",
+        "correct": false
+      },
+      {
+        "text": "Liberalism",
+        "correct": false
+      }
+    ]
+  },
+
+  {
+    "id": 9,
+    "question": "Obstetrics is a branch of medicine particularly concerned with what?x",
+    "answers": [
+      {
+        "text": "Childbirth",
+        "correct": true
+      },
+      {
+        "text": "Broken bones",
+        "correct": false
+      },
+      {
+        "text": "Heart conditions",
+        "correct": false
+      },
+      {
+        "text": "Old age",
+        "correct": false
+      }
+    ]
+  },
+
+  {
+    "id": 10,
+    "question": "In Doctor Who, what was the signature look of the fourth Doctor, as portrayed by Tom Baker?",
+    "answers": [
+      {
+        "text": "Wide-brimmed hat and extra long scarf",
+        "correct": true
+      },
+      {
+        "text": "Pinstripe suit and trainers ",
+        "correct": false
+      },
+      {
+        "text": "Cape, velvet jacket and frilly shirt",
+        "correct": false
+      },
+      {
+        "text": "Bow-tie, braces and tweed jacket",
+        "correct": false
+      }
+    ]
+  },
+
+  {
+    "id": 11,
+    "question": "At the closest point, which island group is only 50 miles south-east of the coast of Florida?",
+    "answers": [
+      {
+        "text": "US Virgin Islands ",
+        "correct": false
+      },
+      {
+        "text": "Bahamas",
+        "correct": true
+      },
+      {
+        "text": "Turks and Caicos Islands",
+        "correct": false
+      },
+      {
+        "text": "Bermuda",
+        "correct": false
+      }
+    ]
+  },
+  
+  {
+    "id": 12,
+    "question": "Who is the only British politician to have held all four “Great Offices of State” at some point during their career?",
+    "answers": [
+      {
+        "text": "David Lloyd George ",
+        "correct": false
+      },
+      {
+        "text": "Harold Wilson",
+        "correct": true
+      },
+      {
+        "text": "John Major",
+        "correct": false
+      },
+      {
+        "text": "James Callaghan",
+        "correct": false
+      }
+    ]
+  },
+  
+  {
+    "id": 13,
+    "question": "Construction of which of these famous landmarks was completed first?",
+    "answers": [
+      {
+        "text": "Empire State Building ",
+        "correct": false
+      },
+      {
+        "text": "Royal Albert Hall",
+        "correct": false
+      },
+      {
+        "text": "Eiffel Tower",
+        "correct": false
+      },
+      {
+        "text": "Big Ben Clock Tower",
+        "correct": true
+      }
+    ]
+  },
+  
+  
+  {
+    "id": 14,
+    "question": "Which of these cetaceans is classified as a “toothed whale”?",
+    "answers": [
+      {
+        "text": "Gray whale ",
+        "correct": false
+      },
+      {
+        "text": "Minke whale",
+        "correct": false
+      },
+      {
+        "text": "Sperm whale",
+        "correct": true
+      },
+      {
+        "text": "Humpback whale",
+        "correct": false
+      }
+    ]
+  },
+  
+  {
+    "id": 15,
+    "question": "In 1718, which pirate died in battle off the coast of what is now North Carolina?",
+    "answers": [
+      {
+        "text": "Blackbeard ",
+        "correct": true
+      },
+      {
+        "text": "Calico Jack",
+        "correct": false
+      },
+      {
+        "text": "Bartholomew Roberts",
+        "correct": false
+      },
+      {
+        "text": "Captain Kidd",
+        "correct": false
+      }
+    ]
+  }
+  
+
+]
